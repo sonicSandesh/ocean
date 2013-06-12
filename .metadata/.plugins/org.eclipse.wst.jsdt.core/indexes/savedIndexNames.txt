@@ -1,0 +1,2 @@
+INDEX VERSION 1.122+D:\Toys\Saviour\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1269431046.index
